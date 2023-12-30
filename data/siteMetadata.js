@@ -4,7 +4,7 @@ const siteMetadata = {
   author: 'ykk',
   headerTitle: 'to be continued',
   description: 'ykk による個人開発ブログ、ときどき趣味',
-  language: 'ja-jp',
+  language: 'ja-JP',
   theme: 'light', // system, dark or light
   siteUrl: 'https://to-be-continued.vercel.app',
   siteRepo: 'https://github.com/Kaaaaazuya/ykk-blog',
@@ -13,7 +13,7 @@ const siteMetadata = {
   // email: 'yk3kzydev@gmail.com',
   github: 'https://github.com/Kaaaaazuya',
   twitter: 'https://twitter.com/yokokokokokoko3',
-  locale: 'ja-jp',
+  locale: 'ja-JP',
   analytics: {
     // If you want to use an analytics provider you have to add it to the
     // content security policy in the `next.config.js` file.
